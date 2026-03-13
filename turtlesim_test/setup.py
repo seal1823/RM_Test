@@ -24,7 +24,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            "turtlesim_subscription_node=turtlesim_test.turtlesim_subscription_node:main"
+            "turtlesim_node=turtlesim_test.turtlesim_node:main"
         ],
     },
 )
